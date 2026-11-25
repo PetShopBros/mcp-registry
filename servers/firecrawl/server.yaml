@@ -14,7 +14,7 @@ about:
   icon: https://avatars.githubusercontent.com/u/135057108?s=200&v=4
 source:
   project: https://github.com/firecrawl/firecrawl-mcp-server
-  commit: 6c6aed6039a9e27502ea3f240aa75bb1d68c716f
+  commit: f5488e406c6f7ae4498338efa52ac5a4a23dcb04
 config:
   description: Configure the connection to Firecrawl
   secrets:
